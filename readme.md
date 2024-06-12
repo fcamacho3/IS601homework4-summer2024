@@ -1,7 +1,7 @@
+# IS601 Homework4 ---summer2024
+
 # Submission Details
 
-Neel Patel\
-nap48
 
 # Installation Instructions
 
