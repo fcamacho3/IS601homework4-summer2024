@@ -1,7 +1,5 @@
 # Submission Details
 
-Neel Patel\
-nap48
 
 # Installation Instructions
 
