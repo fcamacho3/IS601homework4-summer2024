@@ -21,8 +21,8 @@ pip install faker
 
 2. Clone this repo
 ```
-git clone git@github.com:NeelAPatel/NJIT-IS601-homework3.git
-cd NJIT-IS601-homework3
+git clonegit@github.com:fcamacho3/IS601homework4-summer2024.git
+cd IS601homework4-summer2024
 ```
 
 3. Create virtual environment\
@@ -36,7 +36,7 @@ ls
 ```
 pip3 install -r requirements.txt
 ```
-If needed install pytest seperately
+If needed install pytest separately
 ```
 pip3 install pytest pytest-pylint pytest-cov
 ```
